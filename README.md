@@ -354,7 +354,7 @@ The resulting findings are used to calculate the security score and generate rem
 
 ---
 
-# 📊 Example Assessment
+# Example Assessment
 
 A typical full assessment can produce information such as:
 
