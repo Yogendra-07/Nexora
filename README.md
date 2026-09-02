@@ -78,6 +78,28 @@ Each finding can contain:
 * Description
 * Security recommendation
 
+## Screenshots
+
+### Nexora Security Assessment
+
+![Nexora Security Assessment](nexora-banner.png)
+
+### Nexora HTML Security Report
+
+![Nexora HTML Security Report](nexora-ui.png)
+
+### Security Score & Severity Analysis
+
+![Nexora Security Score](nexora-sec-score.png)
+
+### Security Findings & Recommendations
+
+![Nexora Security Findings](nexora-findings%281%29.png)
+
+### Automated Security Intelligence
+
+![Nexora Security Intelligence](nexora-intelligence.png)
+
 ### Security Scoring
 
 Nexora calculates an overall security score from **0–100** based on identified findings.
